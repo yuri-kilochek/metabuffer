@@ -2,6 +2,9 @@
   "name": "metabuffer",
   "version": "0.0.0",
   "repository": "yuri-kilochek/metabuffer",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "license": "ISC",
   "author": {
     "name": "Yuri Kilochek",
