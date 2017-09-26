@@ -1,0 +1,11 @@
+{
+  "name": "metabuffer",
+  "version": "0.0.0",
+  "repository": "yuri-kilochek/metabuffer",
+  "license": "ISC",
+  "author": {
+    "name": "Yuri Kilochek",
+    "email": "yuri.kilochek@gmail.com"
+  },
+  "main": "index.js"
+}
